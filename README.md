@@ -68,7 +68,7 @@ Temas:
 - :globe_with_meridians: Documentacion postgresql:
 [postgres](https://www.postgresql.org/docs/)
 - :globe_with_meridians: Documentacion Django:
-[swagger](https://docs.djangoproject.com/en/4.0/)
+[Django](https://docs.djangoproject.com/en/4.0/)
 - :globe_with_meridians: Docker:
-[miro](https://docs.docker.com/)
-# content-main
+[Docker](https://docs.docker.com/)
+
